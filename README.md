@@ -1,9 +1,3 @@
-San QR [Beat81](https://expo.io/@ialberdic/beat81)
-
-# React Native Challenge
-
-Also, version ejected [Beat81](https://gitlab.com/elrolete/beat81-ejected)
-
 ## Demo
 
 1. Install [Expo CLI](https://docs.expo.io/versions/latest/workflow/expo-cli/)
